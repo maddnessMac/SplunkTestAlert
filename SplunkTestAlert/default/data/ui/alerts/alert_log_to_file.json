@@ -1,0 +1,6 @@
+{
+  "title": "Log to File",
+  "description": "Logs a custom message when the alert is triggered.",
+  "parameters": []
+}
+
